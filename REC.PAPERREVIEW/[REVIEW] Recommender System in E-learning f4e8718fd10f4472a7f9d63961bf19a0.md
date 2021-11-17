@@ -106,10 +106,10 @@ Zhang Q, Lu J, Zhang G. Recommender Systems in E-learning. J Smart Environ Green
 
 - 협업 필터링
 
-- feedback(explicit or implicit) 기반의 추천 모델링
-- 크게 model-based와 memory-based
-    - model-based : similarity btw entities를 모델 기반으로 찾기
-    - memory-based : similarity를 알아서 찾기...
+    - feedback(explicit or implicit) 기반의 추천 모델링
+    - 크게 model-based와 memory-based
+        - model-based : similarity btw entities를 모델 기반으로 찾기
+        - memory-based : similarity를 알아서 찾기...
     
     1) Context-aware 추천
     
@@ -126,10 +126,10 @@ Zhang Q, Lu J, Zhang G. Recommender Systems in E-learning. J Smart Environ Green
 
 - Knowledge 기반
 
-- 지식 기반 추천은 다음과 같을 때 사용됨
+    - 지식 기반 추천은 다음과 같을 때 사용됨
     - 유저 레이팅은 충분하지 않음 & 아이템 컨텐츠가 복잡한 domain 지식을 포함하고 있을 때...
-- 콜드스타트/data sparsity 문제에서 비교적 자유로운 편
-- 대신 ontology 등의 pre-model 절차가 필요하고 비용도 쎄다...
+    - 콜드스타트/data sparsity 문제에서 비교적 자유로운 편
+    - 대신 ontology 등의 pre-model 절차가 필요하고 비용도 쎄다...
 
 
 

@@ -132,8 +132,11 @@ Zhang Q, Lu J, Zhang G. Recommender Systems in E-learning. J Smart Environ Green
     - 대신 ontology 등의 pre-model 절차가 필요하고 비용도 쎄다...
 
 
+<br>
 
 
+
+---
 
 
 

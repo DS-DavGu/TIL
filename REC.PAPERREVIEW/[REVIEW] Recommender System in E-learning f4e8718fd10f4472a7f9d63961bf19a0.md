@@ -1,9 +1,17 @@
 # [REVIEW] Recommender System in E-learning
 
+Zhang Q, Lu J, Zhang G. Recommender Systems in E-learning. J Smart Environ Green Comput 2021;1:76-89 . http://dx.doi.org/10.20517/jsegc.2020.06
 [https://oaepublishstorage.blob.core.windows.net/1966336c-a037-485a-89d4-294de0b15df0/4015.pdf](https://oaepublishstorage.blob.core.windows.net/1966336c-a037-485a-89d4-294de0b15df0/4015.pdf)
+
+
+
+
+
 
 **논문 요약:** 
 현재 E-learning 쪽의 레코멘더 시스템으로 연구되었던 최신 현황들 파악. 2021년 최신 논문
+
+
 
 1. **(뻔한) 인트로 부분**
 
@@ -38,6 +46,12 @@
         - 한 코스 추천만 원하는 게 아니라 A→B→C로 이어지는 learning route를 주세요가 요구사항일수도.
         
 - 이러한 부분 때문에 E-learning 추천은 life-long learner(장기 학습자, 고학습자들)의 추천 relevance와 UX를 발전시키기 위한 방향성으로 발전해 왔음.
+
+
+
+
+
+
 
 1. **주요 기술들**
 
@@ -116,3 +130,12 @@
     - 유저 레이팅은 충분하지 않음 & 아이템 컨텐츠가 복잡한 domain 지식을 포함하고 있을 때...
 - 콜드스타트/data sparsity 문제에서 비교적 자유로운 편
 - 대신 ontology 등의 pre-model 절차가 필요하고 비용도 쎄다...
+
+
+
+
+
+
+
+
+

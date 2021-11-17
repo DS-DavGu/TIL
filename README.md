@@ -1,1 +1,1 @@
-# TIL
+# David as a Data Scientist

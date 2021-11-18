@@ -24,3 +24,7 @@
 <br><br>
 
 ## Code Implementation
+
+[Neural Matrix Factorization in R](https://github.com/DS-DavGu/TIL/blob/main/code_impl/Neural%20Matrix%20Factorization%20in%20R.R)
+
+<br><br><br>

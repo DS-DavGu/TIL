@@ -1,5 +1,5 @@
 ################################################################################
-#Linkedin Learning Recommender System using Neural
+#Linkedin Learning Recommender System using Neural CF
 
   #https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-two
   #Original model structure consists of two parts...
